@@ -1,0 +1,5 @@
+export const SIGNUP_URL = "http://localhost:3000/api/user/signup"
+export const SIGNIN_URL = "http://localhost:3000/api/user/signin"
+export const USERS_URL = "http://localhost:3000/api/user/bulk?filter="
+export const MONEY_TRANSFER_URL = "http://localhost:3000/api/account/transfer"
+export const BALANCE_URL = "http://localhost:3000/api/account/balance"
